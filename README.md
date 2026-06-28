@@ -10,7 +10,7 @@
 
 Complex functions, Phase portraits, Fourier, Chaos, Fractals, Elliptic curves, Hyperbolic geometry, Number Theory, Linear algebra, Parametric surfaces, formal grammars
 
-## running
+## Running
 
 create a local HTTP server
 
